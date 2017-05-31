@@ -4,7 +4,7 @@ Detalhes do Carrinho
 ![example](https://github.com/TaahSene/opencode-components/blob/master/cartDetails/example.gif)
 
 
-####Observações
+#### Observações
 
 ** Imagem apenas ilustrativa, esse componente trata apenas da exibição das informações dos produtos contidos no carrinho, todo a parte de exibição do componente em si deve ser desenvolvida, tais como efeitos e estilização.
 
