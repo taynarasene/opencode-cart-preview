@@ -1,5 +1,4 @@
-# cartDetails
-Detalhes do Carrinho
+# Detalhes do Carrinho
 
 ![example](https://github.com/TaahSene/opencode-components/blob/master/cartDetails/example.gif)
 
